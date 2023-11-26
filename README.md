@@ -13,4 +13,4 @@ directamente sesde el kaggle, para ello se debe ingresar el usuario y clave del 
 
 # Enlaces de los videos en YouTube
 Entrega 2 -> https://www.youtube.com/watch?v=YJWShZmztU4
-Entrega final -> https://www.youtube.com/watch?v=JMInYvoiI7I
+  Entrega final -> https://www.youtube.com/watch?v=JMInYvoiI7I
