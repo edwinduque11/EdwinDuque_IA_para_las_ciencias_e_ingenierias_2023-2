@@ -12,4 +12,8 @@ En cada uno de los notebooks hay un titulo de 'cargar los archivos desde Kaggle'
 directamente sesde el kaggle, para ello se debe ingresar el usuario y clave del kaggle, el cual se obtiene creando un nuevo token en la parte de configuraciones del Kaggle, en donde se descargara un archivo JSON con el usuario y clave que se deben ingresar.
 
 # Enlaces de los videos en YouTube
-Entrega 2 -> https://www.youtube.com/watch?v=YJWShZmztU4    Entrega final -> https://www.youtube.com/watch?v=JMInYvoiI7I
+Entrega 2 -> https://www.youtube.com/watch?v=YJWShZmztU4  
+
+
+
+  Entrega final -> https://www.youtube.com/watch?v=JMInYvoiI7I
